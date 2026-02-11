@@ -17,7 +17,7 @@ Seaborn
 
 📈 Key Insights
 
-Overall churn rate: XX%
+Overall churn rate: 26.58%
 
 Month-to-month customers show highest churn.
 
