@@ -33,7 +33,8 @@ Provide loyalty benefits.
 
 Improve onboarding experience.
 
+Offer targeted retention campaigns.
+
 ![Churn Distribution](images/churn.png)
 
 
-Offer targeted retention campaigns.
